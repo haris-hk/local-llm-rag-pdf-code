@@ -1,0 +1,14 @@
+# Core data science and ML libraries
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# API and Web Server
+fastapi
+uvicorn
+
+# Natural Language Processing (Lightweight)
+pyspellchecker>=0.7.0
+python-Levenshtein>=0.20.0

@@ -1,0 +1,12 @@
+pypdf
+pdfplumber
+langchain-ollama
+langchain-chroma
+langchain
+chromadb # Vector storage
+pytest
+boto3
+fastapi
+uvicorn
+python-multipart
+duckduckgo-search # Web search capability

@@ -1,0 +1,185 @@
+{
+  "educational_history_inattentiveness": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "educational_history_poor_sitting_tolerance": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "medical_history_epilepsy": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "medical_history_tremors": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "medical_history_balance": [
+    "normal",
+    "impaired",
+    "severely_impaired"
+  ],
+  "medical_history_memory_retention": [
+    "normal",
+    "impaired",
+    "severely_impaired"
+  ],
+  "psychological_analysis_verbal_intellectual_deficit": [
+    "borderline",
+    "mild",
+    "moderate",
+    "severe",
+    "below_average",
+    "average",
+    "above_average",
+    "high",
+    "superior",
+    "very_superior"
+  ],
+  "psychological_analysis_hyperactive": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "psychological_analysis_lacks_confidence": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "psychological_analysis_communication": [
+    "mild",
+    "moderate",
+    "severe",
+    "profound",
+    "moderately_low",
+    "adequate",
+    "moderately_high",
+    "high"
+  ],
+  "psychological_analysis_daily_living_skills": [
+    "mild",
+    "moderate",
+    "severe",
+    "profound",
+    "moderately_low",
+    "adequate",
+    "moderately_high",
+    "high"
+  ],
+  "psychological_analysis_socialization": [
+    "mild",
+    "moderate",
+    "severe",
+    "profound",
+    "moderately_low",
+    "adequate",
+    "moderately_high",
+    "high"
+  ],
+  "psychological_analysis_adaptive_behavior_composite": [
+    "mild",
+    "moderate",
+    "severe",
+    "profound",
+    "moderately_low",
+    "adequate",
+    "moderately_high",
+    "high"
+  ],
+  "psychological_analysis_difficulty_following_directions": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "psychological_analysis_adhd": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "psychological_analysis_diagnosis_level": [
+    "none",
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "psychological_analysis_non_verbal_intellectual_deficit": [
+    "significantly_impaired",
+    "mildly_impaired",
+    "below_average",
+    "average",
+    "high_average",
+    "superior",
+    "very_superior"
+  ],
+  "occupational_therapy_static_balance": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_dynamic_balance": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_jump": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_catch_a_ball": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_dynamic_balance_and_motion": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_stationary_ball_kick": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_dynamic_standing_positions": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_dynamic_sitting_positions": [
+    "typical",
+    "impaired",
+    "significantly impaired"
+  ],
+  "occupational_therapy_violence_level": [
+    "none",
+    "low",
+    "moderate",
+    "high"
+  ],
+  "occupational_therapy_impulsivity": [
+    "none",
+    "low",
+    "moderate",
+    "high"
+  ],
+  "occupational_therapy_sexual_interest_or_lust": [
+    "none",
+    "low",
+    "moderate",
+    "high"
+  ]
+}
